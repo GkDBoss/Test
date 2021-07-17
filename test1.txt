@@ -1,0 +1,10 @@
+ Volume in drive E is New Volume
+ Volume Serial Number is 121F-1B73
+
+ Directory of E:\Git_Prj\Example_Prj
+
+07/17/2021  05:44 PM    <DIR>          .
+07/17/2021  05:44 PM    <DIR>          ..
+07/17/2021  05:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  73,465,552,896 bytes free
